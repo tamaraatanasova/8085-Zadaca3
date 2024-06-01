@@ -1,4 +1,4 @@
-# 8085 exercise no.2
+# 8085 exercise no.3
 
 Design a solution for an intersection using the
 traffic lights, to propose a minimal hardware solution
