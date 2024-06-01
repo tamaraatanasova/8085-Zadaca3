@@ -1,4 +1,4 @@
-# 8085-Zadaca3
+# 8085 exercise no.2
 
 Design a solution for an intersection using the
 traffic lights, to propose a minimal hardware solution
